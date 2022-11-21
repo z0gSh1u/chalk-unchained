@@ -19,7 +19,7 @@ $ npm install chalk-better --save
 ### via source
 
 ```shell
-$ git clone git@github.com:z0gSh1u/chalk-better.git
+$ git clone https://github.com/z0gSh1u/chalk-better.git
 ```
 
 And then copy `app.js` and `app.d.ts` to your project as you wish.
